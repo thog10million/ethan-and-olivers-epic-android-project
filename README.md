@@ -11,10 +11,10 @@ Code pictures unavailable due to ethan <br>
 
 qr code to download app!!
 
-![qr code not avaliable!!!!!](qr.png)
+
+<img src="qr.png" class="qr">
 
 <style>
-
   img {
     width: 30%;
     padding: 40px;
@@ -25,5 +25,7 @@ qr code to download app!!
     font-size: 20px;
   }
   
-
+  .qr {
+    width: 40%;
+  }
 </style>
