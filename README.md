@@ -11,4 +11,4 @@ qr code to download app!!
 ![qr code not avaliable!!!!!](qr.png)
 
 <h1>teat</h1>
-<p style="color:red;">fffff</p>
+<p style="color:red">fffff</p>
