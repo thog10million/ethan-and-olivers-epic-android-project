@@ -1,7 +1,7 @@
 # ethan-and-olivers-epic-android-project
 ethan and olivers epic android project is a swag
 
-Code pictures unavailable due to ethan
+Code pictures unavailable due to ethan <br>
 <a href="https://thog10million.github.io/ethan-and-olivers-epic-android-project/">click here 2 go 2 site</p>
 
 <img src="Screenshot_2019-11-18-10-13-38[1].png" width="30%">
