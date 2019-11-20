@@ -27,6 +27,6 @@ qr code to download app!!
   
   .qr {
     width: 40%;
-    align: center;
+    content-align: center;
   }
 </style>
