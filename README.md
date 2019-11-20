@@ -5,3 +5,5 @@ Code pictures unavailable due to ethan
 
 ![Its broken!](Screenshot_2019-11-18-10-13-38[1].png)
 ![This one is broken too!](Screenshot_2019-11-18-10-13-45[1].png)
+qr code to download app!!
+![qr code!!!!!](qr ciede_!!!!11.png)
