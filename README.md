@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap" rel="stylesheet"> 
+
 # ethan-and-olivers-epic-android-project
 ethan and olivers epic android project is a swag
 
@@ -14,12 +16,14 @@ qr code to download app!!
 <style>
 
   img {
-    width: 100px;
+    width: 30%;
+    padding: 40px;
   }
   
   body {
     font-family: 'Ubuntu Mono', monospace;
+    font-size: 20px;
   }
   
-  @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+
 </style>
