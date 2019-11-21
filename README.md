@@ -1,18 +1,19 @@
 <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap" rel="stylesheet"> 
 
 # ethan-and-olivers-epic-android-project
-ethan and olivers epic android project is a swag
+  <p>ethan and olivers epic android project is a swag</p>
 
-Code pictures unavailable due to ethan <br>
-<a href="https://thog10million.github.io/ethan-and-olivers-epic-android-project/">click here 2 go 2 site</a>
+  <p>Code pictures unavailable due to ethan<br></p>
 
-<img src="Screenshot_2019-11-18-10-13-38[1].png">
-<img src="Screenshot_2019-11-18-10-13-45[1].png">
+   <a href="https://thog10million.github.io/ethan-and-olivers-epic-android-project/">click here 2 go 2 site</a>
 
-qr code to download app!!
+  <img src="Screenshot_2019-11-18-10-13-38[1].png">
+  <img src="Screenshot_2019-11-18-10-13-45[1].png">
+
+  <p>qr code to download app!!</p>
 
 
-<img src="qr.png" class="qr">
+  <img src="qr.png" class="qr">
 
 <style>
   img {
@@ -21,12 +22,16 @@ qr code to download app!!
   }
   
   body {
-    font-family: 'Ubuntu Mono', monospace;
-    font-size: 20px;
+    
   }
   
   .qr {
     width: 40%;
     content-align: center;
+  }
+  
+  p {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 20px;
   }
 </style>
