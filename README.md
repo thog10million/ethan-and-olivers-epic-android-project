@@ -26,6 +26,7 @@
     font-size: 20px;
   }
   div {
+  margin: 0 10px;
     display: inline-block;
     background-color: red;
     width: 30%
