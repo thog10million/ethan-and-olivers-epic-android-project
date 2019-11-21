@@ -22,7 +22,7 @@
   }
   
   body {
-    
+    margin: 0px;
   }
   
   .qr {
