@@ -21,8 +21,8 @@
     padding: 40px;
   }
   
-  body {
-    margin: 0px;
+  .container {
+    margin: 0 10%;
   }
   
   .qr {
