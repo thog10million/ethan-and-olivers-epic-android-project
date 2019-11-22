@@ -7,6 +7,7 @@
     <a href="https://thog10million.github.io/ethan-and-olivers-epic-android-project/">click here 2 go 2 site</a>
   </div>
   <div class="column">
+    <p>cool screenshots!!!!<br></p>
     <img src="Screenshot_2019-11-18-10-13-38[1].png"> 
     <img src="Screenshot_2019-11-18-10-13-45[1].png">
   </div>
@@ -17,7 +18,7 @@
 </div>
 <style>
   img {
-    width: 20%;
+    width: 30%;
     padding: 20px;
     float: left;
   }
@@ -34,7 +35,6 @@
   }
   div {
     margin: 0 10px;
-    background-color: red;
   }
   
   .column {
