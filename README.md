@@ -17,8 +17,8 @@
 </div>
 <style>
   img {
-    width: 30%;
-    padding: 40px;
+    width: 20%;
+    padding: 20px;
     float: left;
   }
   .container {
@@ -38,6 +38,7 @@
   
   .column {
     float: left;
+    width: 33%;
   }
 
   .row:after {
