@@ -14,6 +14,7 @@
   img {
     width: 30%;
     padding: 40px;
+    float: left;
   }
   .container {
     margin: 0 10%;
@@ -31,7 +32,7 @@
   }
   
   .column {
-    float:left
+    float: left;
   }
   
 </style>
