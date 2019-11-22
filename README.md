@@ -6,11 +6,13 @@
     <p>Code pictures unavailable due to ethan<br></p>
     <a href="https://thog10million.github.io/ethan-and-olivers-epic-android-project/">click here 2 go 2 site</a>
   </div>
+  <div class="vl"></div>
   <div class="column">
     <p style="text-align: center;">cool screenshots!!!!<br></p>
     <img src="Screenshot_2019-11-18-10-13-38[1].png"> 
     <img src="Screenshot_2019-11-18-10-13-45[1].png">
   </div>
+  <div class="vl"></div>
   <div class="column">
     <p>qr code to download app!!</p>
     <img src="qr.png" class="qr">
@@ -46,5 +48,14 @@
     content: "";
     display: table;
     clear: both;
+  }
+  
+  .vl {
+    border-left: 6px solid green;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
   }
 </style>
