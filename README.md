@@ -23,6 +23,7 @@
   }
   .container {
     margin: 0 10%;
+    max-width: 100%;
   }
   .qr {
     width: 40%;
@@ -38,7 +39,7 @@
   
   .column {
     float: left;
-    width: 33%;
+    width: 25%;
   }
 
   .row:after {
